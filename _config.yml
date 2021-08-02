@@ -31,21 +31,21 @@ page_list:
   - page:
       name: Home
       url: /index
-  - page:
-      name: About
-      url: /about
-  - page:
-      name: History
-      url: /history
-  - page:
-      name: Testimonies
-      url: /testimonies
-  - page:
-      name: Crossroad School of Discipleship
-      url: /crossroad      
-  - page:
-      name: Contact
-      url: /contact
+  # - page:
+  #     name: About
+  #     url: /about
+  # - page:
+  #     name: History
+  #     url: /history
+  # - page:
+  #     name: Testimonies
+  #     url: /testimonies
+  # - page:
+  #     name: Crossroad School of Discipleship
+  #     url: /crossroad
+  # - page:
+  #     name: Contact
+  #     url: /contact
 
 # API settings
 google_api_key:
